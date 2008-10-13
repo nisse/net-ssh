@@ -1,3 +1,4 @@
+nisse
 = Net::SSH
 
 * http://net-ssh.rubyforge.org/ssh
